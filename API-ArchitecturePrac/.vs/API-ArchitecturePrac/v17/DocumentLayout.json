@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A390B-9096-4341-AD25-EB21548863A8}|Service\\Service.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A390B-9096-4341-AD25-EB21548863A8}|Service\\Service.csproj|solutionrelative:service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A390B-9096-4341-AD25-EB21548863A8}|Service\\Service.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A390B-9096-4341-AD25-EB21548863A8}|Service\\Service.csproj|solutionrelative:service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A390B-9096-4341-AD25-EB21548863A8}|Service\\Service.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\service\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A390B-9096-4341-AD25-EB21548863A8}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\api-architectureprac\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|solutionrelative:api-architectureprac\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\api-architectureprac\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|solutionrelative:api-architectureprac\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\api-architectureprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|solutionrelative:api-architectureprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\api-architectureprac\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|solutionrelative:api-architectureprac\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D3059-B89A-4CCB-B5B0-B9D28D870573}|Repository\\Repository.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D3059-B89A-4CCB-B5B0-B9D28D870573}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|c:\\users\\fx706he\\desktop\\apiv2\\api-architectureprac\\api-architectureprac\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62070F28-CD70-4FDC-8A40-DA9A541C2546}|API-ArchitecturePrac\\API-ArchitecturePrac.csproj|solutionrelative:api-architectureprac\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:56:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Service\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Service\\Services\\CountryService.cs",
+              "RelativeToolTip": "Service\\Services\\CountryService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:54:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\ICountryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:54:38.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "API-ArchitecturePrac\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "API-ArchitecturePrac\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:54:19.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "API-ArchitecturePrac\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "API-ArchitecturePrac\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:48:54.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:23:19.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API-ArchitecturePrac\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\appsettings.Development.json",
+              "RelativeToolTip": "API-ArchitecturePrac\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T19:09:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Program.cs",
+              "RelativeDocumentMoniker": "API-ArchitecturePrac\\Program.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Program.cs",
+              "RelativeToolTip": "API-ArchitecturePrac\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:09:09.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "API-ArchitecturePrac\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIv2\\API-ArchitecturePrac\\API-ArchitecturePrac\\Controllers\\CityController.cs",
+              "RelativeToolTip": "API-ArchitecturePrac\\Controllers\\CityController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:43:56.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
